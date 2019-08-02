@@ -5,6 +5,8 @@
 Kazanacak kişi sayısı **[1,2,3,4,5,6,7,8,9,10,20,50]** şeklinde değiştirilebilir.</br></br>
 *Kazanan kişiler Set interface çatısı altında **TreeSet** ile saklanır.*
 
+ **dist** dosyasının içinde bulunan **CekilisApp_.jar** 'ı açıp programı direkt kullanabilirsiniz.
+
 Herhangi bir mantık hataları oluşmasında program uyarı verir. *Kullanılması oldukça basit bir programdır.*</br></br>
 
 ![i1](https://user-images.githubusercontent.com/46673614/62354837-67fc3280-b516-11e9-9e7f-4ae7f46e7854.jpg)
